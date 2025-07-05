@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "22N0qOQgQTdqW+HURum5y+2b1v1Ky9vtgbintF3y0BU=",
-  "Source": ".",
-  "BasePath": "_content/.",
+  "Hash": "JH/Kw6RwvJJmPKQBC4fK2YLjp/tT92eFD6cOkV2IUoM=",
+  "Source": "UserAccessManagerAPI",
+  "BasePath": "_content/UserAccessManagerAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
